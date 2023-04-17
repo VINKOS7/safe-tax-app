@@ -1,0 +1,26 @@
+.tax-form{
+    width: 90vw;
+    text-align: center; 
+    height: 30vh;
+    background-color:rgba(112, 139, 165, 0.137);
+    margin-bottom: 2vh;
+}
+
+.tax-form-item{
+    color: white;
+    margin-top: 5vw;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+button {
+    margin-top: 40px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 16px;
+  }
